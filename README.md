@@ -4,10 +4,10 @@
 **Course:** Advanced Frontend Web Development
 
 ## Video Demonstration
-[Watch the video](PASTE_YOUR_VIDEO_LINK_HERE)
+[Watch the video](https://youtu.be/caXiotNJdNk)
 
 ## Live Demo (bonus)
-[GitHub Pages link](PASTE_LINK_HERE_IF_YOU_PUBLISH)
+[GitHub Pages link]https://drive.google.com/file/d/1vC5lQiBdV8QRrasS_8uXenvuoWi5GWZB/view?usp=sharing
 
 ## About the Project
 Six numbered, colored boxes sit inside a flex container that fills the screen (`width: 100%; height: 100vh;`). A CSS `@keyframes` animation changes `justify-content` and `align-items` so the boxes visit all 9 positions, from Top Left to Bottom Right, on an infinite loop. A second section shows an extra layout with `flex-direction: column` and `flex-wrap: wrap`. HTML and CSS only, no JavaScript.
